@@ -1,0 +1,2 @@
+Git is a fine distributed version control system.
+Git is free software.
